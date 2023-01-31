@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hello there! ✨ 
+___
+
+ I am Salim Zaidi! I am currently learning **Full Stack Development** with courses from freeCodeCamp. I work with **MERNG Stack**.
+ **How to reach me?**
+ 
+ 
+ [🐦 My Twitter](https://twitter.com/SalimZa92771281)
+ 
+ ### A little more about me 🔎
+  + **Pronouns** - He/Him
+  + Based in India 🇮🇳
+  + Currently working on social-media-app
+  + Languages and tools that I used-
+    + [JavaScript]
+  
 
 <!--
 **Feanor96/Feanor96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
