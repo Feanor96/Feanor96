@@ -1,7 +1,7 @@
 ### Hello there! ✨ 
 ___
 
- I am Salim Zaidi! I am currently learning **Full Stack Development** with courses from freeCodeCamp. I work with **MERNG Stack**.
+ I am Salim Zaidi! I know Full Stack Web Devlopment. I work with **MERNG Stack**. I am currently enhancing my skills by learning Machine Learning
  **How to reach me?**
  
  
